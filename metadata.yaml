@@ -1,0 +1,31 @@
+_repo: Los-pescadores-de-Tr-pang_36546
+_version: 0.1.0
+alternative_title: I pescatori di trepang. Spanish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salgari, Emilio
+    birthdate: 1862
+    deathdate: 1911
+    gutenberg_agent_id: '31123'
+    url: http://www.gutenberg.org/2009/agents/31123
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emilio_Salgari
+    - http://it.wikipedia.org/wiki/Emilio_Salgari
+description: ''
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36546'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+title: Los pescadores de "Trépang"
+url: http://www.gutenberg.org/ebooks/36546
