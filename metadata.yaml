@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emilio_Salgari
     - http://it.wikipedia.org/wiki/Emilio_Salgari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36546#Los-pescadores-de-Tr-pang
 gutenberg_issued: '2011-06-28'
 gutenberg_type: Text
 identifiers:
